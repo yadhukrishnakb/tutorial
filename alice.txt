@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-modification from remote repo
-=======
-sixth modification
->>>>>>> Stashed changes
+seventh modification
